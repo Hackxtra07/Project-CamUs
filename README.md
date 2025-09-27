@@ -29,6 +29,6 @@ CamUs is a **lightweight, expandable camera application for Linux** built in Pyt
 ```bash
 git clone <repo_url>
 cd CamUs
-pip install opencv-python Pillow
+pip install opencv-python Pillow tkinter
 
  
